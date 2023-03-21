@@ -1,17 +1,21 @@
-# Nome do meu projeto
+#Projeto Devs & Dragons
 
-Rápida descrição do objetivo de fazer esse projeto
+Nesse projeto, apliquei os conceitos de Orientação à Objetos com o JavaScript, onde construi um jogo RPG. 
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+No jogo, o usuário precisa selecionar 2 cartas para que as mesmas duelem, no fim, é dito quem é o vencedor com base nos atributos de cada card. 
+Também é possível personalizar os card, aumentando o level das cartas.
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+O código foi construído com base na OO, onde as características são herdadas da Classe principal, e cada personagem recebe um arquivo separado com seus próprios atributos. 
 
-## Detalhes do projeto
+Você pode conferir o projeto completo em: 
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Essa é a tela inicial do jogo: 
+![1](https://user-images.githubusercontent.com/95857175/226760543-d443d462-0acc-440d-b1a8-c6ece673d7a2.png#vitrinedev)
+
+Aqui mostra a validação onde é necessário escolher as duas cartas:
+![2](https://user-images.githubusercontent.com/95857175/226760571-9cf4866b-44e4-4741-8ae1-a9924f2aecc7.png#vitrinedev)
+
+E, por fim, temos o resultado do duelo:
+![3](https://user-images.githubusercontent.com/95857175/226760583-5e8650fa-2dc5-42ad-88b0-58d643b925b3.png#vitrinedev)
+
+
