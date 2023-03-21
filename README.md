@@ -1,4 +1,4 @@
-#Projeto Devs & Dragons
+# Projeto Devs & Dragons
 
 Nesse projeto, apliquei os conceitos de Orientação à Objetos com o JavaScript, onde construi um jogo RPG. 
 
@@ -7,7 +7,7 @@ Também é possível personalizar os card, aumentando o level das cartas.
 
 O código foi construído com base na OO, onde as características são herdadas da Classe principal, e cada personagem recebe um arquivo separado com seus próprios atributos. 
 
-Você pode conferir o projeto completo em: 
+Você pode conferir o projeto completo em: https://querenhapuquerocha.github.io/projetoDevsEDragons/
 
 Essa é a tela inicial do jogo: 
 ![1](https://user-images.githubusercontent.com/95857175/226760543-d443d462-0acc-440d-b1a8-c6ece673d7a2.png#vitrinedev)
